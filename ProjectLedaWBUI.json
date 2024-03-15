@@ -4,7 +4,7 @@
         "OpenButton": 0,
         "HideIcon": false,
         "HideIconAfter": 60,
-        "IconURL": "https://i.imgur.com/8ZRjjR4.png",
+        "IconURL": "https://imgur.com/W1dECcA",
         "DisableIconText": false,
         "IconPosition": 0,
         "IconTextColor": 0,
@@ -17,9 +17,9 @@
         "tab1": {
           "layout": 1,
           "buttontext": "Welcome",
-          "title1": "Thanks for installing WBUI2!",
-          "text1": "This mod is in an early stage.\nYou can expect bugs!\n\n\nThis UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab.",
-          "imageurl": "https://i.imgur.com/5np0d6p.png"
+          "title1": "Welcome to Project Leda!",
+          "text1": "Please read the RULES tab before building...\nIf you need an Admin for in-game issue and we are not online create a ticket in discord before using @admin to recieve assisstance.\n\n\nOur current stats are;\n\nx1.1 Exp\nx1.6 Harvest\nx2.8 Taming\n\Max Player Level-190\nMax Wild Dino-210\nMax Tamed Dino-550\n4 Man Tribe\n\n\nBelow are buttons to external sites and our Discord. If you haven't joined our Discord we suggest you do to get any news for the server.\n\n,
+          "imageurl": "https://imgur.com/a/GIuesGp"
         }
       },
       {
